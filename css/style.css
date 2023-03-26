@@ -21,6 +21,9 @@ font-family: 'Open Sans Condensed', sans-serif;
 h1,h2,h3,h4,h5,h6{
     margin: 0;
 }
+.h1{
+    font-display: "";
+}
 
 .logocontact{
     display: flex;
@@ -28,7 +31,7 @@ h1,h2,h3,h4,h5,h6{
 }
 /*header*/
 .header{
-    width: 1280px;
+
     height: 110px;
     position: fixed;
     top: 0;
